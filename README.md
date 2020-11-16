@@ -1,16 +1,23 @@
-### Hi there 👋
+Taiwanese data practitioner living in Los Angeles, CA
 
-<!--
-**amy17519/amy17519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥺 at code 90% in my professional life. 😲 the rest 20% while copying and pasting code from stack overflow
 
-Here are some ideas to get you started:
+### Check out my 給我點流量：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Homepage](https://amy17519.me) | [Past Talks](https://amy17519.me/talk/) | [Blogs](https://amy17519.me/post/) | [LinkedIn](https://www.linkedin.com/in/amy17519) | [Twitter](https://www.twitter.com/amy17519)
+
+### You won't want to miss 不要錯過：
+
+[Mikata Project](https://mikata.dev), Open-source Python and R Tools for Data Science in Production
+
+### Current 現在進行式:
+
+- Data Scientist at [System1](https://system1.com)
+- [Computational Linguistics at UW](https://www.compling.uw.edu)
+- Maintainer[@Mikata-Project](https://github.com/Mikata-Project)
+- Organizer [@laRusers](https://github.com/laRusers) & [@satRdays](https://github.com/satRdays)
+
+### Past 過去式:
+
+- UCLA Stats
+- [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
