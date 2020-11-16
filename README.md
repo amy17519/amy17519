@@ -1,12 +1,10 @@
-Taiwanese data practitioner living in Los Angeles, CA
+#### Taiwanese data practitioner living in Los Angeles, CA
 
-🥺 at code 80% of my professional life. 😲 the rest 20% while copying and pasting code from stack overflow
+#### 🥺 at code 80% of my professional life. 😲 the rest 20% while copying and pasting code from stack overflow
 
 ### Check out my 給我點流量：
 
 [Homepage](https://amy17519.me) | [Past Talks](https://amy17519.me/talk/) | [Blogs](https://amy17519.me/post/) | [LinkedIn](https://www.linkedin.com/in/amy17519) | [Twitter](https://www.twitter.com/amy17519)
-
-### You won't want to miss 不要錯過：
 
 [Mikata Project](https://mikata.dev), Open-source Python and R Tools for Data Science in Production
 
