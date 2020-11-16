@@ -21,3 +21,4 @@ Taiwanese data practitioner living in Los Angeles, CA
 
 - UCLA Stats
 - [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
+- [PyData Los Angeles](https://pydata.org)
