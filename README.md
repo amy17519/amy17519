@@ -1,5 +1,3 @@
-#### Taiwanese data practitioner living in Los Angeles, CA
-
 ---- 🥺 at code 80% of my professional life. 😲 the rest 20% while copying and pasting code from stack overflow ----
 
 ### Links 給我點流量：
