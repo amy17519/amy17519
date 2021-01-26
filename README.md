@@ -8,7 +8,7 @@
 
 ### Current 現在進行式:
 
-- Data Scientist at [System1](https://system1.com)
+- Machine Learning Engineer at [Uptake](https://uptake.com)
 - [Computational Linguistics at UW](https://www.compling.uw.edu)
 - Maintainer [@Mikata-Project](https://github.com/Mikata-Project)
 - Organizer [@laRusers](https://github.com/laRusers) & [@satRdays](https://github.com/satRdays)
@@ -18,3 +18,4 @@
 - UCLA Stats
 - [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
 - [PyData Los Angeles](https://pydata.org)
+- Data Scientist at [System1](https://system1.com)
