@@ -1,4 +1,4 @@
----- 🥺 at code 80% of my professional life. 😲 the rest 20% while copying and pasting code from stack overflow ----
+---- 🥺 at code 80% of my professional life. 😲 the rest 20% while copying and pasting code from stackoverflow ----
 
 ### Links 給我點流量：
 
