@@ -10,12 +10,11 @@
 
 - Machine Learning Engineer at [Uptake](https://uptake.com)
 - NLP at [Seasalt.ai](https://seasalt.ai/)
-- Maintainer [@Mikata-Project](https://github.com/Mikata-Project)
-- Organizer [@laRusers](https://github.com/laRusers) & [@satRdays](https://github.com/satRdays)
 
 ### Past 過去式:
 
-
+- Maintainer [@Mikata-Project](https://github.com/Mikata-Project)
+- Organizer [@laRusers](https://github.com/laRusers) & [@satRdays](https://github.com/satRdays)
 - [Computational Linguistics at UW](https://www.compling.uw.edu)
 - UCLA Stats
 - [PyLadies Los Angeles](https://www.meetup.com/Pyladies-LA/)
