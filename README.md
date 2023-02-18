@@ -2,7 +2,7 @@
 
 ### Links 給我點流量：
 
-[Homepage](https://amy17519.me) | [Past Talks](https://amy17519.me/talk/) | [Blogs](https://amy17519.me/post/) | [LinkedIn](https://www.linkedin.com/in/amy17519) | [Twitter](https://www.twitter.com/amy17519)
+[Homepage](https://amychen.xyz) | [Past Talks](https://amy17519.me/talk/) | [LinkedIn](https://www.linkedin.com/in/amy17519) | [Twitter](https://www.twitter.com/amy17519)
 
 [Mikata Project](https://mikata.dev), Open-source Python and R Tools for Data Science in Production
 
