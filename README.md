@@ -2,7 +2,7 @@
 
 ### Links 給我點流量：
 
-[Homepage](https://amychen.xyz) | [Substack/Blog](https://amycc.substack.com) | [Past Talks](https://amy17519.me/talk/) | [LinkedIn](https://www.linkedin.com/in/amy17519) | [Twitter](https://www.twitter.com/amy17519)
+[Homepage](https://amychen.xyz) | [Substack](https://amycc.substack.com) | [Past Talks](https://amy17519.me/talk/) | [LinkedIn](https://www.linkedin.com/in/amy17519) | [Twitter](https://www.twitter.com/amy17519)
 
 [Mikata Project](https://mikata.dev), Open-source Python and R Tools for Data Science in Production
 
