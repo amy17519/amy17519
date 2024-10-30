@@ -1,8 +1,4 @@
----- 🥺 at code 80% of my professional life. 😲 the rest 20% while copying and pasting code from stackoverflow ----
-
-### Links 給我點流量：
-
-[Homepage](https://linktr.ee/amy17519) | [Substack](https://amycc.substack.com) | [LinkedIn](https://www.linkedin.com/in/amy17519)
+[Linktree](https://linktr.ee/amy17519) | [LinkedIn](https://www.linkedin.com/in/amy17519)
 
 [Mikata Project](https://mikata.dev), Open-source Python and R Tools for Data Science in Production
 
