@@ -2,17 +2,18 @@
 
 ### Links 給我點流量：
 
-[Homepage](https://amychen.xyz) | [Substack](https://amycc.substack.com) | [Past Talks](https://amy17519.me/talk/) | [LinkedIn](https://www.linkedin.com/in/amy17519) | [Twitter](https://www.twitter.com/amy17519)
+[Homepage](https://linktr.ee/amy17519) | [Substack](https://amycc.substack.com) | [LinkedIn](https://www.linkedin.com/in/amy17519)
 
 [Mikata Project](https://mikata.dev), Open-source Python and R Tools for Data Science in Production
 
 ### Current 現在進行式:
-
-- Machine Learning Engineer at [Uptake](https://uptake.com)
-- NLP at [Seasalt.ai](https://seasalt.ai/)
+- Everything at [Seasalt.ai](https://seasalt.ai/)
+- (Substack) [The Cocoons by Stella and Amy](https://thecocoons.substack.com/)
+- (Podcast) [數據女孩的中年危機](https://linktr.ee/stellaxamy)
 
 ### Past 過去式:
 
+- Machine Learning Engineer at [Uptake](https://uptake.com)
 - Maintainer [@Mikata-Project](https://github.com/Mikata-Project)
 - Organizer [@laRusers](https://github.com/laRusers) & [@satRdays](https://github.com/satRdays)
 - [Computational Linguistics at UW](https://www.compling.uw.edu)
