@@ -1,7 +1,7 @@
 [Linktree](https://linktr.ee/amy17519) | [LinkedIn](https://www.linkedin.com/in/amy17519)
 
 ### Current 現在進行式:
-- AI Evals and Analytics[https://ai-evals.org]
+- [AI Evals and Analytics](https://ai-evals.org)
 - Substack [The Cocoons by Stella and Amy](https://thecocoons.substack.com/)
 - Podcast [Stella x Amy 自定義 Podcast 前「數據女孩的中年危機」](https://linktr.ee/stellaxamy)
 
